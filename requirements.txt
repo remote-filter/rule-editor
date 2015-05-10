@@ -2,3 +2,6 @@ flask
 redis
 google-api-python-client
 python-gflags
+flask-oauthlib
+json
+
